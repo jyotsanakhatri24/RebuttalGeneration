@@ -5,7 +5,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/jyotsanakhatri24/DefendRebuttalGenerator.git
+    git clone <url>
     cd DefendRebuttalGenerator
     ```
 
