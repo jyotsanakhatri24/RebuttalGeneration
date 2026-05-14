@@ -1,4 +1,4 @@
-# DefendRebuttalGenerator
+# RebuttalGenerator
 
 
 ## 🔗 Setup
