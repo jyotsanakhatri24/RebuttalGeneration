@@ -6,7 +6,7 @@
 1.  **Clone the repository:**
     ```bash
     git clone <url>
-    cd DefendRebuttalGenerator
+    cd RebuttalGeneration
     ```
 
 2.  **Activate virtual environment:**
